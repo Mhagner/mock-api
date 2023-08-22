@@ -1,440 +1,365 @@
 {
-  "skus": [
-    {
-      "id": 1,
-      "skuPrice": 2.99,
-      "measurementUnitPrice": 9.99,
-      "unitPrice": 19.98,
-      "discounts": null
-    },
-    {
-      "id": 27,
-      "skuPrice": 204.09,
-      "measurementUnitPrice": 39.63,
-      "unitPrice": 102.05,
-      "discounts": [
+    "type": "FeatureCollection",
+    "features": [
         {
-          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
-          "discountType": "VOLUME",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "volumeRanges": [
-            {
-              "minQuantity": 5,
-              "maxQuantity": 20,
-              "discountValue": 40
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.806025658738584, -16.024973794157596
+                ]
             },
-            {
-              "minQuantity": 21,
-              "maxQuantity": 50,
-              "discountValue": 70
+            "type": "Feature",
+            "properties": {
+                "category": "Itaberaí",
+                "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nbt8a5N_k6BKYTEP3ee8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.89291&pitch=0&thumbfov=100",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "R. Belizário de Almeida, 232-292, Itaberaí - GO, 76630-000",
+                "name": "Hiper Festa Itaberaí",
+                "phone": "62 3093-0559",
+                "storeid": "01"
             }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 166,
-      "skuPrice": 300.99,
-      "measurementUnitPrice": 5.99,
-      "unitPrice": 11.98,
-      "discounts": [
-        {
-          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
-          "discountType": "VOLUME",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "volumeRanges": [
-            {
-              "minQuantity": 5,
-              "maxQuantity": 20,
-              "discountValue": 30
-            },
-            {
-              "minQuantity": 21,
-              "maxQuantity": 50,
-              "discountValue": 50
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 148,
-      "skuPrice": 0.99,
-      "measurementUnitPrice": 5.99,
-      "unitPrice": 11.98,
-      "discounts": [
-        {
-          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 298,
-              "quantity": 10
-            }
-          ],
-          "get": [
-            {
-              "skuId": 326,
-              "quantity": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 298,
-      "skuPrice": 404.32,
-      "measurementUnitPrice": 18.05,
-      "unitPrice": 12.64,
-      "discounts": [
-        {
-          "id": "1876dc9b-b7d6-4ea1-9a32-8cbfcb507507",
-          "discountType": "VOLUME",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "volumeRanges": [
-            {
-              "minQuantity": 5,
-              "maxQuantity": 20,
-              "discountValue": 5
-            },
-            {
-              "minQuantity": 21,
-              "maxQuantity": 50,
-              "discountValue": 10
-            },
-            {
-              "minQuantity": 51,
-              "maxQuantity": 80,
-              "discountValue": 15
-            }
-          ]
         },
         {
-          "id": "8171c9a6-f3c1-4600-8473-7b452375f797",
-          "discountType": "COMBO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": 5,
-          "combo": [
-            {
-              "skuId": 298,
-              "quantity": 5
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -48.26381580376648, -15.944020018471054
+                ]
             },
-            {
-              "skuId": 240,
-              "quantity": 2
+            "type": "Feature",
+            "properties": {
+                "category": "Santo Antônio do Descoberto",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNElTdKCaSRoBhyF_7YXvRa8DIKuh5gLKWYnUyU=w408-h240-k-no-pi0-ya340-ro-0-fo100",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "R. Cinco, 580 - Centro, Santo Antônio do Descoberto - GO, 72900-000",
+                "name": "Hiper Festa - Santo Antônio do Descoberto",
+                "phone": "(61) 99883-2634",
+                "storeid": "02"
             }
-          ]
         },
         {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 298,
-              "quantity": 10
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.2935708170468, -16.669459390217312
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN6CqLLM3tqOZZnwcJXbNXrx0HuPBzMvcUUW8D2=w408-h334-k-no",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "R. Jaraguá, 270 - St. Campinas, Goiânia - GO, 74545-040",
+                "name": "Hiper Festa - Rua Jaraguá - Campinas",
+                "phone": "62 3093-0559",
+                "storeid": "03"
             }
-          ],
-          "get": [
-            {
-              "skuId": 298,
-              "quantity": 2
-            }
-          ]
         },
         {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 298,
-              "quantity": 6
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.3590070355115, -16.694531053053684
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNBQEHEzcAKTkmdd1em3fyIvmgn7C2XTQWMkIRq=w408-h544-k-no",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "Av. Gabriel Henrique de Araújo - Res. Goiania Viva, Goiânia - GO, 74483-760",
+                "name": "Hiper Festa - Lorena Park",
+                "phone": "62 3573 0431",
+                "storeid": "04"
             }
-          ],
-          "get": [
-            {
-              "skuId": 21,
-              "quantity": 2
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.21642696452668, -18.415502604722757
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Itumbiara",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipMNXj8BblLDF23GF-Q1jRT7OHDlf5zb8MlhEfMT=w408-h305-k-no",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "Av. Afonso Pena, 100 - St. Central, Itumbiara - GO, 75503-380",
+                "name": "Hiper Festa - Av. Afonso Pena",
+                "phone": "64 3431-2529",
+                "storeid": "05"
             }
-          ]
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -48.621752190187244, -17.7491969313011
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Caldas Novas",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipN9uTAc_r_63oLJe1ZVHN17iW6DgaEgIJriS33G=w408-h306-k-no",
+                "type": "festa",
+                "hours": "10am - 6pm",
+                "description": "Av. Antônio Sanches Fernandes, 152 - Jardim Roma, Caldas Novas - GO, 75690-000",
+                "name": "Hiper Festa - Av. Antônio Sanches Fernandes",
+                "phone": "64 3453-1525",
+                "storeid": "06"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -47.60720959827328, -16.765237052754053
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Cristalina",
+                "img": "",
+                "type": "festa",
+                "hours": "08:00 - 18:30",
+                "description": "Rua 7 de Setembro Qd 16 Lt 8A Em frente Banco Itaú, Cristalina - GO, 73850-000",
+                "name": "Hiper Festa - Cristalina",
+                "phone": "61 3612-4116",
+                "storeid": "07"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.27664242315903, -16.71034960180309
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Goiânia",
+                "img": "",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. C-233, Qd 558, Lt 13, 463 - Jardim América, Goiânia - GO, 74290-040",
+                "name": "Hiper Festa - Av. C- 233 - Jardim América",
+                "phone": "62 3996-2733",
+                "storeid": "08"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.48641394133119, -16.65334928732943
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Trindade",
+                "img": "",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Raimundo de Aquino, s/n - Vila Joao Bras, Trindade - GO, 75380-000",
+                "name": "Hiper Festa - Av. Raimundo de Aquino",
+                "phone": "62 3505-0346",
+                "storeid": "09"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.1995968657645,-16.656172848059406
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPpTiid5BjWVpHFrG2MGbAWmZ0Gs55vgE1fe22b=w408-h725-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Anápolis, 565-581 - Jardim das Aroeiras, Goiânia - GO, 74781-005",
+                "name": "Hiper Festa - Av. Anápolis - Jardim das Aroeiras",
+                "phone": "62 3249-3200",
+                "storeid": "10"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.25469178891654, -16.650491204815314
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Goiânia",
+                "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4QLK2b2am5sWBhxQ-oXyng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.904774&pitch=0&thumbfov=100",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Eng. Fuad Rassi, 1140 - Vila Froes, Goiânia - GO, 74655-315",
+                "name": "Hiper Festa - Vila Froes",
+                "phone": "62 3999-0093",
+                "storeid": "11"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.25707593253394, -16.733713231047126
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipNvJc2Z--IS5XFUC1W6IzYVO81HRDfbdsLQPVS6=w408-h412-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Rudá Avenue, QD 39-A LT 06 - Vila Brasilia, Goiânia - GO, 74905-760",
+                "name": "Hiper Festa - Vila Brasilia",
+                "phone": "62 3548-3855",
+                "storeid": "12"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.340734090423325, -16.769359508705033
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipP2Wo6JKX_LwKKMrv4vk6du0dB9W_Kj-Y7D2Fhi=w408-h725-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Igualdade Qd 111. 02, Sala 01 - Garavelo, Aparecida de Goiânia - GO, 74930-530",
+                "name": "Hiper Festa - Av. Igualdade - Garavelo",
+                "phone": "62 98327-8781",
+                "storeid": "13"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.348105850358095, -16.763004202057722
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. da Liberdade, 14 - St. Garavelo, Aparecida de Goiânia - GO, 74930-100",
+                "name": "Hiper Festa - Av. Liberdade - Garavelo",
+                "phone": "62 3085-6177",
+                "storeid": "14"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.25352612728839, -16.822717009785684
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipPB1EXlupaz2FHMFTtqBepOg0_qpAFxloQrfag=w408-h544-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Rua da gloria Qd 10 lt 7 sala 1 Seor Rua Serra Dourada, 3, Aparecida de Goiânia - GO, 74973-744",
+                "name": "Hiper Festa - Setor Serra Dourada",
+                "phone": "62 3638-6427",
+                "storeid": "15"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.281656173979414, -16.82352867469951
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipM2bDIZK7goUj0SQibru9ibtRMlaZ2VIuchrPjs=w408-h306-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Independência, s/n - Bairro Independência, Aparecida de Goiânia - GO, 74967-145",
+                "name": "Hiper Festa - Independência",
+                "phone": "62 3094-7855",
+                "storeid": "16"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.282027933837604, -16.745912392093807
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOb2v0kp0eEEBTGRK3K_pjEZboxF5UMOt3tbi-M=w408-h544-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. São João - Jardim Nova Era, Aparecida de Goiânia - GO, 74916-200",
+                "name": "Hiper Festa - Terminal Cruzeiro",
+                "phone": "62 3983-2030",
+                "storeid": "17"
+            }   
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": 
+                [
+                    -49.23641130472654, -16.825602017081803
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Aparecida de Goiânia",
+                "img": "https://lh5.googleusercontent.com/p/AF1QipOX46kB7vdYrwtaJvR5BjrZ9KxoGfp4KGnAMHzp=w408-h306-k-no",
+                "type": "festa",
+                "hours": "08:00 - 19:00",
+                "description": "Av. Santana, 308 - Retiro do Bosque, Aparecida de Goiânia - GO, 74990-825",
+                "name": "Hiper Festa - Retiro do Bosque",
+                "phone": "62 3277-0963",
+                "storeid": "18"
+            }   
         }
-      ]
-    },
-    {
-      "id": 21,
-      "skuPrice": 404.32,
-      "measurementUnitPrice": 18.05,
-      "unitPrice": 12.64,
-      "discounts": [
-        {
-          "id": "8171c9a6-f3c1-4600-8473-7b452375f797",
-          "discountType": "COMBO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": 5,
-          "combo": [
-            {
-              "skuId": 21,
-              "quantity": 5
-            },
-            {
-              "skuId": 865,
-              "quantity": 2
-            }
-          ]
-        },
-        {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 21,
-              "quantity": 3
-            }
-          ],
-          "get": [
-            {
-              "skuId": 21,
-              "quantity": 4
-            }
-          ]
-        },
-        {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 21,
-              "quantity": 4
-            }
-          ],
-          "get": [
-            {
-              "skuId": 298,
-              "quantity": 2
-            },
-            {
-              "skuId": 247,
-              "quantity": 3
-            },
-            {
-              "skuId": 120,
-              "quantity": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 247,
-      "skuPrice": 404.32,
-      "measurementUnitPrice": 18.05,
-      "unitPrice": 12.64,
-      "discounts": [
-        {
-          "id": "1876dc9b-b7d6-4ea1-9a32-8cbfcb507507",
-          "discountType": "VOLUME",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "volumeRanges": [
-            {
-              "minQuantity": 2,
-              "maxQuantity": 4,
-              "discountValue": 5
-            },
-            {
-              "minQuantity": 5,
-              "maxQuantity": 12,
-              "discountValue": 10
-            }
-          ]
-        },
-        {
-          "id": "8171c9a6-f3c1-4600-8473-7b452375f797",
-          "discountType": "COMBO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": 5,
-          "combo": [
-            {
-              "skuId": 21,
-              "quantity": 5
-            },
-            {
-              "skuId": 865,
-              "quantity": 2
-            }
-          ]
-        },
-        {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 247,
-              "quantity": 2
-            }
-          ],
-          "get": [
-            {
-              "skuId": 247,
-              "quantity": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "skuPrice": 404.32,
-      "measurementUnitPrice": 18.05,
-      "unitPrice": 12.64,
-      "discounts": [
-        {
-          "id": "1876dc9b-b7d6-4ea1-9a32-8cbfcb507507",
-          "discountType": "VOLUME",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "volumeRanges": [
-            {
-              "minQuantity": 6,
-              "maxQuantity": 9,
-              "discountValue": 5
-            },
-            {
-              "minQuantity": 10,
-              "maxQuantity": 20,
-              "discountValue": 10
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 220,
-      "skuPrice": 404.32,
-      "measurementUnitPrice": 18.05,
-      "unitPrice": 12.64,
-      "discounts": [
-        {
-          "id": "2f7404ee-620b-4e0e-8811-6a2bb2e8c293",
-          "discountType": "BOGO",
-          "discountValueType": "PERCENTAGE",
-          "discountValue": null,
-          "buy": [
-            {
-              "skuId": 220,
-              "quantity": 4
-            }
-          ],
-          "get": [
-            {
-              "skuId": 298,
-              "quantity": 2
-            },
-            {
-              "skuId": 120,
-              "quantity": 3
-            },
-            {
-              "skuId": 120,
-              "quantity": 2
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "lists": [
-    {
-      "name": "cart",
-      "items": [
-        {
-          "skuId": "b2a95cb1-12e8-5b6a-895b-fa8bc92ef486",
-          "productId": "a9201601-7e0c-5262-a04e-e78f997511cd",
-          "quantity": 3
-        },
-        {
-          "skuId": "4e82b418-45fb-4e1c-95e3-872a7a0f6e8c",
-          "productId": "879c4fe2-8b02-4b5f-9cc1-f7efc4d2c3d7",
-          "quantity": 2
-        },
-        {
-          "skuId": "6782b418-45fb-4e1c-95e3-872a7a0f6e8c",
-          "productId": "369c4fe2-8b02-4b5f-9cc1-f7efc4d2c3d7",
-          "quantity": 5
-        }
-      ]
-    },
-    {
-      "name": "last-bought",
-      "items": [
-        {
-          "skuId": "ab308a96-62f3-4e11-8bc6-9d0b9278945a",
-          "productId": "23d3a97a-54bc-4f79-af1d-6dce0d67b304",
-          "quantity": 3
-        },
-        {
-          "skuId": "4e82b418-45fb-4e1c-95e3-872a7a0f6e8c",
-          "productId": "879c4fe2-8b02-4b5f-9cc1-f7efc4d2c3d7",
-          "quantity": 2
-        }
-      ]
-    },
-    {
-      "name": "most-bought",
-      "items": [
-        {
-          "skuId": "ab308a96-62f3-4e11-8bc6-9d0b9278945a",
-          "productId": "23d3a97a-54bc-4f79-af1d-6dce0d67b304",
-          "quantity": 3
-        },
-        {
-          "skuId": "4e82b418-45fb-4e1c-95e3-872a7a0f6e8c",
-          "productId": "879c4fe2-8b02-4b5f-9cc1-f7efc4d2c3d7",
-          "quantity": 2
-        }
-      ]
-    }
-  ],
-  "get-to-know": [
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    },
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    },
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    }
-  ],
-  "most-bought": [
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    },
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    },
-    {
-      "skuId": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
-      "productId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-    }
-  ]
+    ]
 }
