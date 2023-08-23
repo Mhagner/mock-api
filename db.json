@@ -1,369 +1,468 @@
 {
-    "data": [
+  "data": [
+    {
+      "type": "FeatureCollection",
+      "features": [
         {
-         "type": "FeatureCollection",
-        "features": [
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.806025658738584, -16.024973794157596
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Itaberaí",
-                    "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nbt8a5N_k6BKYTEP3ee8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.89291&pitch=0&thumbfov=100",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "R. Belizário de Almeida, 232-292, Itaberaí - GO, 76630-000",
-                    "name": "Hiper Festa Itaberaí",
-                    "phone": "62 3093-0559",
-                    "storeid": "01"
-                }
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -48.26381580376648, -15.944020018471054
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Santo Antônio do Descoberto",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipNElTdKCaSRoBhyF_7YXvRa8DIKuh5gLKWYnUyU=w408-h240-k-no-pi0-ya340-ro-0-fo100",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "R. Cinco, 580 - Centro, Santo Antônio do Descoberto - GO, 72900-000",
-                    "name": "Hiper Festa - Santo Antônio do Descoberto",
-                    "phone": "(61) 99883-2634",
-                    "storeid": "02"
-                }
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.2935708170468, -16.669459390217312
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipN6CqLLM3tqOZZnwcJXbNXrx0HuPBzMvcUUW8D2=w408-h334-k-no",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "R. Jaraguá, 270 - St. Campinas, Goiânia - GO, 74545-040",
-                    "name": "Hiper Festa - Rua Jaraguá - Campinas",
-                    "phone": "62 3093-0559",
-                    "storeid": "03"
-                }
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.3590070355115, -16.694531053053684
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipNBQEHEzcAKTkmdd1em3fyIvmgn7C2XTQWMkIRq=w408-h544-k-no",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "Av. Gabriel Henrique de Araújo - Res. Goiania Viva, Goiânia - GO, 74483-760",
-                    "name": "Hiper Festa - Lorena Park",
-                    "phone": "62 3573 0431",
-                    "storeid": "04"
-                }
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.21642696452668, -18.415502604722757
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Itumbiara",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipMNXj8BblLDF23GF-Q1jRT7OHDlf5zb8MlhEfMT=w408-h305-k-no",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "Av. Afonso Pena, 100 - St. Central, Itumbiara - GO, 75503-380",
-                    "name": "Hiper Festa - Av. Afonso Pena",
-                    "phone": "64 3431-2529",
-                    "storeid": "05"
-                }
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -48.621752190187244, -17.7491969313011
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Caldas Novas",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipN9uTAc_r_63oLJe1ZVHN17iW6DgaEgIJriS33G=w408-h306-k-no",
-                    "type": "festa",
-                    "hours": "10am - 6pm",
-                    "description": "Av. Antônio Sanches Fernandes, 152 - Jardim Roma, Caldas Novas - GO, 75690-000",
-                    "name": "Hiper Festa - Av. Antônio Sanches Fernandes",
-                    "phone": "64 3453-1525",
-                    "storeid": "06"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -47.60720959827328, -16.765237052754053
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Cristalina",
-                    "img": "",
-                    "type": "festa",
-                    "hours": "08:00 - 18:30",
-                    "description": "Rua 7 de Setembro Qd 16 Lt 8A Em frente Banco Itaú, Cristalina - GO, 73850-000",
-                    "name": "Hiper Festa - Cristalina",
-                    "phone": "61 3612-4116",
-                    "storeid": "07"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.27664242315903, -16.71034960180309
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Goiânia",
-                    "img": "",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. C-233, Qd 558, Lt 13, 463 - Jardim América, Goiânia - GO, 74290-040",
-                    "name": "Hiper Festa - Av. C- 233 - Jardim América",
-                    "phone": "62 3996-2733",
-                    "storeid": "08"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.48641394133119, -16.65334928732943
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Trindade",
-                    "img": "",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Raimundo de Aquino, s/n - Vila Joao Bras, Trindade - GO, 75380-000",
-                    "name": "Hiper Festa - Av. Raimundo de Aquino",
-                    "phone": "62 3505-0346",
-                    "storeid": "09"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.1995968657645,-16.656172848059406
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipPpTiid5BjWVpHFrG2MGbAWmZ0Gs55vgE1fe22b=w408-h725-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Anápolis, 565-581 - Jardim das Aroeiras, Goiânia - GO, 74781-005",
-                    "name": "Hiper Festa - Av. Anápolis - Jardim das Aroeiras",
-                    "phone": "62 3249-3200",
-                    "storeid": "10"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.25469178891654, -16.650491204815314
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Goiânia",
-                    "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4QLK2b2am5sWBhxQ-oXyng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.904774&pitch=0&thumbfov=100",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Eng. Fuad Rassi, 1140 - Vila Froes, Goiânia - GO, 74655-315",
-                    "name": "Hiper Festa - Vila Froes",
-                    "phone": "62 3999-0093",
-                    "storeid": "11"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.25707593253394, -16.733713231047126
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipNvJc2Z--IS5XFUC1W6IzYVO81HRDfbdsLQPVS6=w408-h412-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Rudá Avenue, QD 39-A LT 06 - Vila Brasilia, Goiânia - GO, 74905-760",
-                    "name": "Hiper Festa - Vila Brasilia",
-                    "phone": "62 3548-3855",
-                    "storeid": "12"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.340734090423325, -16.769359508705033
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipP2Wo6JKX_LwKKMrv4vk6du0dB9W_Kj-Y7D2Fhi=w408-h725-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Igualdade Qd 111. 02, Sala 01 - Garavelo, Aparecida de Goiânia - GO, 74930-530",
-                    "name": "Hiper Festa - Av. Igualdade - Garavelo",
-                    "phone": "62 98327-8781",
-                    "storeid": "13"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.348105850358095, -16.763004202057722
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. da Liberdade, 14 - St. Garavelo, Aparecida de Goiânia - GO, 74930-100",
-                    "name": "Hiper Festa - Av. Liberdade - Garavelo",
-                    "phone": "62 3085-6177",
-                    "storeid": "14"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.25352612728839, -16.822717009785684
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipPB1EXlupaz2FHMFTtqBepOg0_qpAFxloQrfag=w408-h544-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Rua da gloria Qd 10 lt 7 sala 1 Seor Rua Serra Dourada, 3, Aparecida de Goiânia - GO, 74973-744",
-                    "name": "Hiper Festa - Setor Serra Dourada",
-                    "phone": "62 3638-6427",
-                    "storeid": "15"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.281656173979414, -16.82352867469951
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipM2bDIZK7goUj0SQibru9ibtRMlaZ2VIuchrPjs=w408-h306-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Independência, s/n - Bairro Independência, Aparecida de Goiânia - GO, 74967-145",
-                    "name": "Hiper Festa - Independência",
-                    "phone": "62 3094-7855",
-                    "storeid": "16"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.282027933837604, -16.745912392093807
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipOb2v0kp0eEEBTGRK3K_pjEZboxF5UMOt3tbi-M=w408-h544-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. São João - Jardim Nova Era, Aparecida de Goiânia - GO, 74916-200",
-                    "name": "Hiper Festa - Terminal Cruzeiro",
-                    "phone": "62 3983-2030",
-                    "storeid": "17"
-                }   
-            },
-            {
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": 
-                    [
-                        -49.23641130472654, -16.825602017081803
-                    ]
-                },
-                "type": "Feature",
-                "properties": {
-                    "category": "Aparecida de Goiânia",
-                    "img": "https://lh5.googleusercontent.com/p/AF1QipOX46kB7vdYrwtaJvR5BjrZ9KxoGfp4KGnAMHzp=w408-h306-k-no",
-                    "type": "festa",
-                    "hours": "08:00 - 19:00",
-                    "description": "Av. Santana, 308 - Retiro do Bosque, Aparecida de Goiânia - GO, 74990-825",
-                    "name": "Hiper Festa - Retiro do Bosque",
-                    "phone": "62 3277-0963",
-                    "storeid": "18"
-                }   
-            }
-        ]
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.806025658738584, -16.024973794157596]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Itaberaí",
+            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nbt8a5N_k6BKYTEP3ee8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.89291&pitch=0&thumbfov=100",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "R. Belizário de Almeida, 232-292, Itaberaí - GO, 76630-000",
+            "name": "Hiper Festa Itaberaí",
+            "phone": "62 3093-0559",
+            "storeid": "01"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.26381580376648, -15.944020018471054]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Santo Antônio do Descoberto",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNElTdKCaSRoBhyF_7YXvRa8DIKuh5gLKWYnUyU=w408-h240-k-no-pi0-ya340-ro-0-fo100",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "R. Cinco, 580 - Centro, Santo Antônio do Descoberto - GO, 72900-000",
+            "name": "Hiper Festa - Santo Antônio do Descoberto",
+            "phone": "(61) 99883-2634",
+            "storeid": "02"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.2935708170468, -16.669459390217312]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN6CqLLM3tqOZZnwcJXbNXrx0HuPBzMvcUUW8D2=w408-h334-k-no",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "R. Jaraguá, 270 - St. Campinas, Goiânia - GO, 74545-040",
+            "name": "Hiper Festa - Rua Jaraguá - Campinas",
+            "phone": "62 3093-0559",
+            "storeid": "03"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.3590070355115, -16.694531053053684]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNBQEHEzcAKTkmdd1em3fyIvmgn7C2XTQWMkIRq=w408-h544-k-no",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "Av. Gabriel Henrique de Araújo - Res. Goiania Viva, Goiânia - GO, 74483-760",
+            "name": "Hiper Festa - Lorena Park",
+            "phone": "62 3573 0431",
+            "storeid": "04"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.21642696452668, -18.415502604722757]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Itumbiara",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMNXj8BblLDF23GF-Q1jRT7OHDlf5zb8MlhEfMT=w408-h305-k-no",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "Av. Afonso Pena, 100 - St. Central, Itumbiara - GO, 75503-380",
+            "name": "Hiper Festa - Av. Afonso Pena",
+            "phone": "64 3431-2529",
+            "storeid": "05"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.621752190187244, -17.7491969313011]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Caldas Novas",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9uTAc_r_63oLJe1ZVHN17iW6DgaEgIJriS33G=w408-h306-k-no",
+            "type": "festa",
+            "hours": "10am - 6pm",
+            "description": "Av. Antônio Sanches Fernandes, 152 - Jardim Roma, Caldas Novas - GO, 75690-000",
+            "name": "Hiper Festa - Av. Antônio Sanches Fernandes",
+            "phone": "64 3453-1525",
+            "storeid": "06"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-47.60720959827328, -16.765237052754053]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Cristalina",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Rua 7 de Setembro Qd 16 Lt 8A Em frente Banco Itaú, Cristalina - GO, 73850-000",
+            "name": "Hiper Festa - Cristalina",
+            "phone": "61 3612-4116",
+            "storeid": "07"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.27664242315903, -16.71034960180309]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. C-233, Qd 558, Lt 13, 463 - Jardim América, Goiânia - GO, 74290-040",
+            "name": "Hiper Festa - Av. C- 233 - Jardim América",
+            "phone": "62 3996-2733",
+            "storeid": "08"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.48641394133119, -16.65334928732943]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Trindade",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Raimundo de Aquino, s/n - Vila Joao Bras, Trindade - GO, 75380-000",
+            "name": "Hiper Festa - Av. Raimundo de Aquino",
+            "phone": "62 3505-0346",
+            "storeid": "09"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.1995968657645, -16.656172848059406]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPpTiid5BjWVpHFrG2MGbAWmZ0Gs55vgE1fe22b=w408-h725-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Anápolis, 565-581 - Jardim das Aroeiras, Goiânia - GO, 74781-005",
+            "name": "Hiper Festa - Av. Anápolis - Jardim das Aroeiras",
+            "phone": "62 3249-3200",
+            "storeid": "10"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.25469178891654, -16.650491204815314]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4QLK2b2am5sWBhxQ-oXyng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.904774&pitch=0&thumbfov=100",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Eng. Fuad Rassi, 1140 - Vila Froes, Goiânia - GO, 74655-315",
+            "name": "Hiper Festa - Vila Froes",
+            "phone": "62 3999-0093",
+            "storeid": "11"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.25707593253394, -16.733713231047126]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNvJc2Z--IS5XFUC1W6IzYVO81HRDfbdsLQPVS6=w408-h412-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Rudá Avenue, QD 39-A LT 06 - Vila Brasilia, Goiânia - GO, 74905-760",
+            "name": "Hiper Festa - Vila Brasilia",
+            "phone": "62 3548-3855",
+            "storeid": "12"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.340734090423325, -16.769359508705033]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipP2Wo6JKX_LwKKMrv4vk6du0dB9W_Kj-Y7D2Fhi=w408-h725-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Igualdade Qd 111. 02, Sala 01 - Garavelo, Aparecida de Goiânia - GO, 74930-530",
+            "name": "Hiper Festa - Av. Igualdade - Garavelo",
+            "phone": "62 98327-8781",
+            "storeid": "13"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.348105850358095, -16.763004202057722]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. da Liberdade, 14 - St. Garavelo, Aparecida de Goiânia - GO, 74930-100",
+            "name": "Hiper Festa - Av. Liberdade - Garavelo",
+            "phone": "62 3085-6177",
+            "storeid": "14"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.25352612728839, -16.822717009785684]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPB1EXlupaz2FHMFTtqBepOg0_qpAFxloQrfag=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Rua da gloria Qd 10 lt 7 sala 1 Seor Rua Serra Dourada, 3, Aparecida de Goiânia - GO, 74973-744",
+            "name": "Hiper Festa - Setor Serra Dourada",
+            "phone": "62 3638-6427",
+            "storeid": "15"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.281656173979414, -16.82352867469951]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM2bDIZK7goUj0SQibru9ibtRMlaZ2VIuchrPjs=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Independência, s/n - Bairro Independência, Aparecida de Goiânia - GO, 74967-145",
+            "name": "Hiper Festa - Independência",
+            "phone": "62 3094-7855",
+            "storeid": "16"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.282027933837604, -16.745912392093807]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOb2v0kp0eEEBTGRK3K_pjEZboxF5UMOt3tbi-M=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. São João - Jardim Nova Era, Aparecida de Goiânia - GO, 74916-200",
+            "name": "Hiper Festa - Terminal Cruzeiro",
+            "phone": "62 3983-2030",
+            "storeid": "17"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.23641130472654, -16.825602017081803]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Aparecida de Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOX46kB7vdYrwtaJvR5BjrZ9KxoGfp4KGnAMHzp=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Santana, 308 - Retiro do Bosque, Aparecida de Goiânia - GO, 74990-825",
+            "name": "Hiper Festa - Retiro do Bosque",
+            "phone": "62 3277-0963",
+            "storeid": "18"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.18368383221549, -16.658271897534625]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN2CqR01DQL8ExKGIzM_Du_M5Q7LlcSbyk1x6xj=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Anápolis, Qd. 13 Lt. 16, S/N - Jardim Maria Helena, Goiânia - GO, 74769-790",
+            "name": "Hiper Confeiteiro - Jardim Maria Helena",
+            "phone": "62 3434-4053",
+            "storeid": "19"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.220196661246455, -16.622954357046588]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNDHPvqLUFlCQdcHgTizd-Fyw_uz-sRB-7M69fU=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Avenida vera cruz Qd 44A Lote 04 Número 827 Número b827 - Jardim Guanabara, Goiânia - GO, 74675-830",
+            "name": "Hiper Festa - Jardim Guanabara",
+            "phone": "62 3434-8572",
+            "storeid": "20"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.30671678820476, -16.732925050335755]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Ipanema, 1296 - Jardim Atlântico, Goiânia - GO, 74343-010",
+            "name": "Hiper Festa - Jardim Atlantico",
+            "phone": "62 3287-4041",
+            "storeid": "21"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.31999231061545, -16.613805021483078]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNcKKKqJN-D0TZgTNK7H_iF1DIXP6NI2WMtwtis=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Mangalô, 1948 - St. Morada do Sol, Goiânia - GO, 74475-115",
+            "name": "Hiper Festa - Morada do Sol",
+            "phone": "62 3926-0092",
+            "storeid": "22"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.29454098797957, -16.669636086157574]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOsLLnY2XteeZYoCfW2GzVUxS0MZIO0aLTs8jKZ=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "R. José Hermano, 435 - St. Campinas, Goiânia - GO, 74523-300",
+            "name": "Hiper Festa - Campinas",
+            "phone": "62 3432-7437",
+            "storeid": "23"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.335986617767425, -16.641104593372496]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNayCL86RMpTpJF5qIN7xbrkV3EpTCsrkO-YRE-=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Anhanguera, 15284 - QD: 24 LOTE: 08 - St. Santos Dumont, Goiânia - GO, 74463-350",
+            "name": "Hiper Festa - Santos Dumont",
+            "phone": "62 3095-1447",
+            "storeid": "24"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.23944636555965, -16.729021791071702]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOa5NR20u_uTvHPs0eNi6FGbtrdx5UyQRiDdVof=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Alameda do Contorno, 2470 - Conj. Anhangüera, Goiânia - GO, 74853-120",
+            "name": "Hiper Festa - Conjunto Anhanguera",
+            "phone": "62 3091-3517",
+            "storeid": "25"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.26366833211554, -16.68884129902567]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzXr3BicNB9vFSo_UR06D7qIO4Tm_MOREj2aI3=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Rua 106, nº 223, R. 10, 01 - Qd D - St. Oeste, Goiânia - GO, 74120-115",
+            "name": "Hiper Festa - Setor Oeste",
+            "phone": "62 3157-0048",
+            "storeid": "26"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.2768700604484267, -16.646463363646912]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPMEoZ-g-Os7ATHro9sYgZdMOO1Bkc0FSLxPjEU=w408-h407-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Mal. Rondon, Qd-C - Lt 11 - St. Urias Magalhães, Goiânia - GO, 74574-001",
+            "name": "Hiper Festa - Urias Magalhães",
+            "phone": "62 3924-6588",
+            "storeid": "27"
+          }
         }
-    ]
+      ]
+    }
+  ]
 }
