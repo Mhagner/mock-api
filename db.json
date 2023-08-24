@@ -342,6 +342,125 @@
             "phone": "62 3434-8572",
             "storeid": "20"
           }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.30671678820476, -16.732925050335755]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 19:00",
+            "description": "Av. Ipanema, 1296 - Jardim Atlântico, Goiânia - GO, 74343-010",
+            "name": "Hiper Festa - Jardim Atlantico",
+            "phone": "62 3287-4041",
+            "storeid": "21"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.31999231061545, -16.613805021483078]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNcKKKqJN-D0TZgTNK7H_iF1DIXP6NI2WMtwtis=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Mangalô, 1948 - St. Morada do Sol, Goiânia - GO, 74475-115",
+            "name": "Hiper Festa - Morada do Sol",
+            "phone": "62 3926-0092",
+            "storeid": "22"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.29454098797957, -16.669636086157574]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOsLLnY2XteeZYoCfW2GzVUxS0MZIO0aLTs8jKZ=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "R. José Hermano, 435 - St. Campinas, Goiânia - GO, 74523-300",
+            "name": "Hiper Festa - Campinas",
+            "phone": "62 3432-7437",
+            "storeid": "23"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.335986617767425, -16.641104593372496]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNayCL86RMpTpJF5qIN7xbrkV3EpTCsrkO-YRE-=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Anhanguera, 15284 - QD: 24 LOTE: 08 - St. Santos Dumont, Goiânia - GO, 74463-350",
+            "name": "Hiper Festa - Santos Dumont",
+            "phone": "62 3095-1447",
+            "storeid": "24"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.23944636555965, -16.729021791071702]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOa5NR20u_uTvHPs0eNi6FGbtrdx5UyQRiDdVof=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Alameda do Contorno, 2470 - Conj. Anhangüera, Goiânia - GO, 74853-120",
+            "name": "Hiper Festa - Conjunto Anhanguera",
+            "phone": "62 3091-3517",
+            "storeid": "25"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.26366833211554, -16.68884129902567]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPzXr3BicNB9vFSo_UR06D7qIO4Tm_MOREj2aI3=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Rua 106, nº 223, R. 10, 01 - Qd D - St. Oeste, Goiânia - GO, 74120-115",
+            "name": "Hiper Festa - Setor Oeste",
+            "phone": "62 3157-0048",
+            "storeid": "26"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.2768700604484267, -16.646463363646912]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goiânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipPMEoZ-g-Os7ATHro9sYgZdMOO1Bkc0FSLxPjEU=w408-h407-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Mal. Rondon, Qd-C - Lt 11 - St. Urias Magalhães, Goiânia - GO, 74574-001",
+            "name": "Hiper Festa - Urias Magalhães",
+            "phone": "62 3924-6588",
+            "storeid": "27"
+          }
         }
       ]
     }
