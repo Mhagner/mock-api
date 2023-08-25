@@ -83,7 +83,7 @@
             "type": "festa",
             "hours": "10am - 6pm",
             "description": "Av. Afonso Pena, 100 - St. Central, Itumbiara - GO, 75503-380",
-            "name": "Hiper Festa - Av. Afonso Pena",
+            "name": "Hiper Festa - Itumbiara/GO",
             "phone": "64 3431-2529",
             "storeid": "05"
           }
@@ -117,7 +117,7 @@
             "type": "festa",
             "hours": "08:00 - 18:30",
             "description": "Rua 7 de Setembro Qd 16 Lt 8A Em frente Banco Itaú, Cristalina - GO, 73850-000",
-            "name": "Hiper Festa - Cristalina",
+            "name": "Hiper Festa - Cristalina/GO",
             "phone": "61 3612-4116",
             "storeid": "07"
           }
@@ -460,6 +460,261 @@
             "name": "Hiper Festa - Urias Magalhães",
             "phone": "62 3924-6588",
             "storeid": "27"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.968503867691574, -16.28115923635195]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Anápolis",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMOspf1z3aYxGIPV-7X8vQkx5wXtJBIO0uiPHRQ=w408-h725-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Av. Fernando Costa, 584 - Vila Jaiara, Anápolis - GO, 75064-354",
+            "name": "Hiper Festa - Anápolis/GO - Jayara",
+            "phone": "62 3771-3271",
+            "storeid": "28"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.943155617660445, -16.327058826537233]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Anápolis",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNIQuW4fCfHLyQWnuJ0GjaKNENPU29tqNDO_NPd=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:30 - 18:30",
+            "description": "Av. Mato Grosso, 335 - quadra 2 lote 28 - Jundiaí, Anápolis - GO, 75113-170",
+            "name": "Hiper Festa - Anápolis/GO - Jundiai",
+            "phone": "62 2011-2637",
+            "storeid": "29"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.95728856030246, -16.34653135621422]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Anápolis",
+            "img": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SN_dPthXx4EhZjqRJeqAunw6ElEN7knjyegxLhfC8qRm8kxK28NX-4nT48MGUsK-bSZxAFK5Op9f8pZGgnt0dowyD69z8uI4eHoRiBoY4sXt2hQCQNDI9_RLQjFGlNQCZRYRWogMZK2m5B4Q8ZEaMf3D9Q_0msO22GtlbPcoFf8IOKG-ENyOwKiOGsgv7mYrdj9dQ=w427-h240-k-no",
+            "type": "festa",
+            "hours": "08:30 - 18:30",
+            "description": "Av. Brasil Sul, 2212 - Jardim Goncalves, Anápolis - GO, 75123-315",
+            "name": "Hiper Festa - Anápolis/GO - Avenida Brasil",
+            "phone": "62 3098-7773",
+            "storeid": "30"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.95848156005151, -16.32517592852327]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Anápolis",
+            "img": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0R5plVjN_4OMaUd-6NAS2ETMr9xdII7zlrZ4Ky6sEL3e3ccAmjoEveWs-OVpCqj77rq62iU5ZjJpGGy3COjLoCuUenVzkCgjGJG7hBnK5v7qz88SVKf95i6YWEdb8ep8R9u1IPBBDltTYtHgYmyTCEMCF_cPuGdRR156d0xlSTgLpc88-fyd9NDIFEUA1nwwHNbrws=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "R. Rui Barbosa, 308 - Sala 1 - St. Central, Anápolis - GO, 75025-060",
+            "name": "Hiper Festa - Anápolis/GO - Centro",
+            "phone": "62 3943-9910",
+            "storeid": "31"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.62166635814788, -17.749278675247673]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Caldas Novas",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipN9uTAc_r_63oLJe1ZVHN17iW6DgaEgIJriS33G=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Antônio Sanches Fernandes, 152 - Jardim Roma, Caldas Novas - GO, 75690-000",
+            "name": "Hiper Festa - Caldas Novas/GO - Av. Antônio Sanches",
+            "phone": "64 3453-1525",
+            "storeid": "32"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-48.62888607450875, -17.745836062718524]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Caldas Novas",
+            "img": "",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "564, R. Antônio Coelho de Godoy, 486, Caldas Novas - GO, 75690-000",
+            "name": "Hiper Festa - Caldas Novas/GO - Av. Antônio Coelho",
+            "phone": "64 3454-1955",
+            "storeid": "33"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-47.93900786071237, -18.1601405718078]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Catalão",
+            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U7MmtSWOSfXlj5B6hhAkbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.35043&pitch=0&thumbfov=100",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Av. Dr. Lamartine Pinto de Avelar, 159 - Lot. Vila Chaud, Catalão - GO, 75704-020",
+            "name": "Hiper Festa - Catalão/GO - Loteamento Vila Chaud",
+            "phone": "64 99655-3909",
+            "storeid": "34"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.59214874495086, -15.309184407596756]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Ceres",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMvIlgaqtdIWDSWamUQVv1E-V2MFm3WzyAbbkh8=w408-h544-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "Av. Bernardo Sayão - Centro, Ceres - GO, 76300-000",
+            "name": "Hiper Festa - CERES/GO",
+            "phone": "62 3307-2237",
+            "storeid": "35"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-47.32636835892732, -15.545057079172027]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Itaberaí",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNOTF7xoA9uHRCw6pGAy03wn6y-FPTl69klhl15=w408-h408-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Maestro João Luiz do Espírito Santo, 527 - Formosinha, Formosa - GO, 73807-775",
+            "name": "Hiper Festa - Formosa/GO - Formosinha",
+            "phone": "62 3307-2237",
+            "storeid": "36"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.80612222115836, -16.025035587948512]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Formosinha",
+            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nbt8a5N_k6BKYTEP3ee8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.89291&pitch=0&thumbfov=100",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "R. Belizário de Almeida, 232-292, Itaberaí - GO, 76630-000",
+            "name": "Hiper Festa - Itaberaí /GO",
+            "phone": "62 9431-2727",
+            "storeid": "37"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-51.72416707408398, -17.887614571810982]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Jataí",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipM6R_lvDgiXAZG7-jWBom8e6wXauFEVQG66Uuid=w408-h240-k-no-pi-10-ya20-ro-0-fo100",
+            "type": "festa",
+            "hours": "08:00 - 18:30",
+            "description": "R. Itaruma, 251 - Vila Santa Maria, Jataí - GO, 75800-089",
+            "name": "Hiper Festa - Jataí/GO",
+            "phone": "64 3636-2001",
+            "storeid": "38"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.32923760391248, -15.746087009221098]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Jaraguá",
+            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VIBKHWjRlB_scXSzZs1qdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.35446&pitch=0&thumbfov=100",
+            "type": "festa",
+            "hours": "08:30 - 18:30",
+            "description": "Av. Cristóvão Colombo, S/N - QD4, LT3 - SETOR AEROPRTO, Jaraguá - GO, 76330-000",
+            "name": "Hiper Festa - Jaraguá/GO",
+            "phone": "62 3326-6269",
+            "storeid": "39"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.502724909381875, -16.362365814459636]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Inhumas",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipOyonhLmnxqdjh0CNKmKMEwCAuycpMtEwczokPP=w408-h451-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Av. Bernardo Sayão, 1382, Inhumas - GO, 75400-000",
+            "name": "Hiper Festa - Inhumas/GO",
+            "phone": "62 3511-8785",
+            "storeid": "40"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-47.949031631825285, -16.25282626741161]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Luziânia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMxRzFK6lw_P8eQF79YSI5Y2QX-rhSBe9XS_D9p=w426-h240-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "R. Jesus Meireles, 158 - Quadra 34, Lote 21 - Centro, Luziânia - GO, 72803-010",
+            "name": "Hiper Festa - Luziânia/GO - Centro",
+            "phone": "61 3084-4828",
+            "storeid": "41"
+          }
+        },
+        {
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-49.11748470461379, -15.323176582607724]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "Goianésia",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipNapr8Ws6yHkDVmvOqpAYKYXsJVmZUxZXxgQngz=w408-h306-k-no",
+            "type": "festa",
+            "hours": "08:00 - 18:00",
+            "description": "Norte - 332, Av. Goiás - Centro, Goianésia - GO, 76380-100",
+            "name": "Hiper Festa - Goianésia/GO",
+            "phone": "62 98434-6243",
+            "storeid": "42"
           }
         }
       ]
