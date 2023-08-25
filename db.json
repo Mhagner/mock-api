@@ -605,7 +605,7 @@
           },
           "type": "Feature",
           "properties": {
-            "category": "Itaberaí",
+            "category": "Formosinha",
             "img": "https://lh5.googleusercontent.com/p/AF1QipNOTF7xoA9uHRCw6pGAy03wn6y-FPTl69klhl15=w408-h408-k-no",
             "type": "festa",
             "hours": "08:00 - 18:00",
@@ -613,23 +613,6 @@
             "name": "Hiper Festa - Formosa/GO - Formosinha",
             "phone": "62 3307-2237",
             "storeid": "36"
-          }
-        },
-        {
-          "geometry": {
-            "type": "Point",
-            "coordinates": [-49.80612222115836, -16.025035587948512]
-          },
-          "type": "Feature",
-          "properties": {
-            "category": "Formosinha",
-            "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nbt8a5N_k6BKYTEP3ee8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.89291&pitch=0&thumbfov=100",
-            "type": "festa",
-            "hours": "08:00 - 18:00",
-            "description": "Av. Maestro João Luiz do Espírito Santo, 527 - Formosinha, Formosa - GO, 73807-775",
-            "name": "Hiper Festa - Formosa/GO - Formosinha",
-            "phone": "61 3642-4045",
-            "storeid": "37"
           }
         },
         {
@@ -646,7 +629,7 @@
             "description": "R. Itaruma, 251 - Vila Santa Maria, Jataí - GO, 75800-089",
             "name": "Hiper Festa - Jataí/GO",
             "phone": "64 3636-2001",
-            "storeid": "38"
+            "storeid": "37"
           }
         },
         {
@@ -663,7 +646,7 @@
             "description": "Av. Cristóvão Colombo, S/N - QD4, LT3 - SETOR AEROPRTO, Jaraguá - GO, 76330-000",
             "name": "Hiper Festa - Jaraguá/GO",
             "phone": "62 3326-6269",
-            "storeid": "39"
+            "storeid": "38"
           }
         },
         {
@@ -680,7 +663,7 @@
             "description": "Av. Bernardo Sayão, 1382, Inhumas - GO, 75400-000",
             "name": "Hiper Festa - Inhumas/GO",
             "phone": "62 3511-8785",
-            "storeid": "40"
+            "storeid": "39"
           }
         },
         {
@@ -697,7 +680,7 @@
             "description": "R. Jesus Meireles, 158 - Quadra 34, Lote 21 - Centro, Luziânia - GO, 72803-010",
             "name": "Hiper Festa - Luziânia/GO - Centro",
             "phone": "61 3084-4828",
-            "storeid": "41"
+            "storeid": "40"
           }
         },
         {
@@ -714,7 +697,7 @@
             "description": "Norte - 332, Av. Goiás - Centro, Goianésia - GO, 76380-100",
             "name": "Hiper Festa - Goianésia/GO",
             "phone": "62 98434-6243",
-            "storeid": "42"
+            "storeid": "41"
           }
         }
       ]
